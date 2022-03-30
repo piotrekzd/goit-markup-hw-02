@@ -96,6 +96,7 @@ a:focus {
   font-size: 16px;
   line-height: 1.87;
   letter-spacing: 0.06em;
+  cursor: pointer;
 }
 
 .lorem-list {
@@ -111,6 +112,7 @@ a:focus {
 }
 
 .lorem-list-item {
+  font-weight: 400;
   font-size: 14px;
   line-height: 1.71;
   letter-spacing: 0.03em;
@@ -157,6 +159,7 @@ a:focus {
 }
 
 .crew-occupation {
+  font-weight: 400;
   font-size: 16px;
   line-height: 1.19;
   letter-spacing: 0.03em;
@@ -176,6 +179,7 @@ a:focus {
   font-size: 16px;
   line-height: 1.63;
   letter-spacing: 0.03em;
+  cursor: pointer;
 }
 
 .button-nav:hover,
@@ -196,6 +200,7 @@ a:focus {
 }
 
 .picture-description {
+  font-weight: 400;
   font-size: 16px;
   line-height: 1.88;
   letter-spacing: 0.03em;
