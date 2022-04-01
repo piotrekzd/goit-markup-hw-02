@@ -12,13 +12,43 @@ body {
   color: var(--main-color);
 }
 
-a {
+.logo-up,
+.logo-footer,
+.menu-agency,
+.menu-contact,
+.menu-portfolio,
+.contact-mail,
+.contact-tel,
+.address-list-nav,
+.address-list-mail,
+.address-list-tel {
   text-decoration: none;
 }
 
-a:hover,
-a:focus {
+.logo-up:hover,
+.logo-footer:hover,
+.menu-agency:hover,
+.menu-contact:hover,
+.menu-portfolio:hover,
+.contact-mail:hover,
+.contact-tel:hover,
+.address-list-nav:hover,
+.address-list-mail:hover,
+.address-list-tel:hover {
   color: var(--blue-color);
+}
+
+.logo-up:focus,
+.logo-footer:focus,
+.menu-agency:focus,
+.menu-contact:focus,
+.menu-portfolio:focus,
+.contact-mail:focus,
+.contact-tel:focus,
+.address-list-nav:focus,
+.address-list-mail:focus,
+.address-list-tel:focus {
+  color: var(--blue-color)
 }
 
 .logo-up {
